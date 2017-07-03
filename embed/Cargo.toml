@@ -1,7 +1,7 @@
 [package]
 name = "embed"
 version = "0.1.0"
-authors = ["xfn-ll <cw3180@163.com>"]
+authors = ["Cao <cw3180@163.com>"]
 [lib]
 name = "embed"
 crate-type = ["dylib"]
