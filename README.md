@@ -13,6 +13,8 @@
 启动10个线程。在每个线程中，从1数到500万。在所有10个线程结束后，打印“done”。
 使用Javascript调用rust生成的库文件。
 
+- 计算一个长方形的面积
+
 ## 相关链接
 - [Rust官方教程中文版](http://rustbook.cn/)
 - [Rust官方网站](https://www.rust-lang.org/zh-CN/)
